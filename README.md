@@ -1,3 +1,3 @@
-# 🚀 Manage your coding projects
-📊 Dashboard
-📋 To-Do List
+## 🚀 Manage Your Coding Projects!
+📊 Dashboard!\
+📋 To-Do List!
