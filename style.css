@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+.center{
+	position:absolute;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+#header{
+	font-size:50px;
+	left:0%;
+	top:0%;
+	width:35%;
+	height:15%;
+	border-bottom:2px solid rgba(0,0,0,0.7);
+	border-right:2px solid rgba(0,0,0,0.7);
+	border-radius:0px 0px 20px 0px;
+}
+.project{
+	position:absolute;
+	width:200px;
+	height:200px;
+	border-radius:20%;
+	background-color:rgb(230,230,230);
+	box-shadow:8px 8px rgba(0,0,0,0.2);
+}
+.projecticon{
+	font-size:70px;
+	left:0%;
+	top:0%;
+	width:100%;
+	height:70%;
+}
+.projecttitle{
+	font-size:20px;
+	left:0%;
+	top:60%;
+	width:100%;
+	height:20%;
+}
+.projecttasknum{
+	font-size:20px;
+	left:0%;
+	top:75%;
+	width:100%;
+	height:20%;
+	color:red;
+}
+#project1{
+	left:17%;
+	top:25%;
+}
+#project2{
+	left:42%;
+	top:25%;
+}
+#project3{
+	left:67%;
+	top:25%;
+}
